@@ -1,0 +1,23 @@
+{
+  "name": "e-commerce-mern-stack",
+  "version": "1.0.0",
+  "description": "MERN shopping cart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pratham82/E-Commerce-MERN-stack.git"
+  },
+  "author": "Prathamesh Mali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pratham82/E-Commerce-MERN-stack/issues"
+  },
+  "homepage": "https://github.com/Pratham82/E-Commerce-MERN-stack#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
